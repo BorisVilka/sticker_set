@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "625194438410",
+    "project_id": "dddd-835bb",
+    "storage_bucket": "dddd-835bb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:625194438410:android:15be25cef67f9f645674f3",
+        "android_client_info": {
+          "package_name": "org.kwork4"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "625194438410-glsna1b72c6joukfr9mb8f1pvhhrd1tt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkk1L7WMldIGCbtCawnKNOlu7am9d1uOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "625194438410-glsna1b72c6joukfr9mb8f1pvhhrd1tt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

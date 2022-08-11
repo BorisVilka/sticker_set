@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Sticker Set</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="author">Автор: </string>
+    <string name="vb">Viber</string>
+    <string name="tg">Telegram</string>
+    <string name="ok">OK</string>
+</resources>
